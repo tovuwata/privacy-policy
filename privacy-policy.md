@@ -79,7 +79,7 @@ Tovuwata（以下、「当組織」といいます。）は、本ウェブサイ
 ## 第 10 条（お問い合わせ窓口）
 
 本ポリシーに関するお問い合わせは、下記の窓口までお願いいたします。<br />
-[https://tovuwata.github.com/contact](https://tovuwata.github.com/contact)
+[https://tovuwata.github.io/contact](https://tovuwata.github.io/contact)
 
 以上
 
